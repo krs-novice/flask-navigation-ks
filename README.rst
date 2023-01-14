@@ -1,5 +1,7 @@
 |Build Status| |Coverage Status| |PyPI Version| |PyPI Downloads| |Wheel Status|
 
+TonySeek's original version won't run on Python >=3.10 because of a change in the Collections module. Initially this will work around that. Eventually it may be rewritten to avoid any of the deprecated calls
+
 Flask-Navigation
 ================
 
